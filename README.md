@@ -2,4 +2,4 @@
 
 * os: arch
 * editor: vim
-* wm: awesome
+* wm: bspwm
