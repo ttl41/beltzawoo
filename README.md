@@ -1,5 +1,5 @@
 ### hello there! 
 
 * os: arch
-* editor: vim
+* editor: doom emacs
 * wm: bspwm
