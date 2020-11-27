@@ -1,5 +1,5 @@
 ### hello there! 
 
 * os: arch
-* editor: vim
-* wm: awesome
+* editor: neovim
+* wm: bspwm
