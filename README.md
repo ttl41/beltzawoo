@@ -3,4 +3,4 @@
 * os: linux mint :^)
 * editor: neovim
 * wm: bspwm
-* kb_layout: adextre
+* kb: adextre on xbows
